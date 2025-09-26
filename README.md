@@ -52,4 +52,33 @@ total CO2e emission reduction by the project activity is expected to be 11,147 t
 respectively, whereas actual emission reduction achieved during the first CoU period shall be submitted
 as a part of first monitoring and verification. 
 ___________________
+ISSUANCE DATE: 26/09/2025
 
+QTY: 42754
+
+MP-01: 25/06/2021-31/12/2024
+_________
+Serial Number: 0001-000001-005802-UCR-CoU-IN-533-25062021-31122021
+
+Vintage Year: 2021
+
+Quantity: 5802
+_________
+Serial Number: 0001-005803-018982-UCR-CoU-IN-533-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 13180
+____________
+Serial Number: 0001-018983-032016-UCR-CoU-IN-533-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 13034
+____________
+Serial Number: 0001-032017-042754-UCR-CoU-IN-533-01012024-31122024
+
+Vintage Year: 2024
+
+Quantity: 10738
+____________
